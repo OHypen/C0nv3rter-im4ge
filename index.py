@@ -1,4 +1,4 @@
-from PIL import Image
+from PIL import Image #pip install Pillow
 
 img= Image.open("Images/nomeDaImagem.jpg")
 blackAndWhite = img.convert("L")
