@@ -26,7 +26,11 @@
 ## 👉 | COMO USAR O PROJETO?
 <div>
     - Baixe o Python | https://www.youtube.com/watch?v=FcfalMf9bRY
-    - Abra seu Terminal e digite: pip install Pillow
+    
+     - Abra seu Terminal e digite: pip install Pillow
+     
+     
+
     - Pronto agora siga o tutorial abaixo:
 
       - Clone o repositorio
