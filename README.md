@@ -36,3 +36,10 @@
 + 4) Unzip the project
 + 5) Run the project
 ```
+
+## Use rights 🔖
+</br>
+
+You have full right to use this project for: study, for-profit purposes, changes to the source code and etc ...
+ But you will need to give credit, unless you change at least 55% of the code.
+
